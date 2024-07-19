@@ -60,5 +60,5 @@ I'm a passionate data scientist with expertise in Python, AI, and machine learni
 </div>
 
 <p align="center">
- <img width="1000" src="https://github.com/gauravjoshi157/gauravjoshi157/blob/output/generate-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/generate-snake.svg" alt="snake"/>
 </p>
