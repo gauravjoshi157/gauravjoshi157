@@ -50,10 +50,7 @@ I'm a passionate data scientist with expertise in Python, AI, and machine learni
 
 ---
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=gauravjoshi157&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravjoshi157&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
+
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=gauravjoshi157&style=for-the-badge&color=orange" alt=""/>
